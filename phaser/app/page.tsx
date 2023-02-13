@@ -10,6 +10,10 @@ export default function Home() {
       <h1 className='text-3xl font-bold underline'>
         Hello world!
       </h1>
+      <div id="phaserTest">
+        <p>Testing PhaserJS</p>
+      </div>
     </main>
   )
 }
+
